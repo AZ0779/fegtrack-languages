@@ -20,13 +20,13 @@ const LABELS = {
   STAKED: "Mizat",
   REWARDS_FROM: "Recompense de la",
   EDIT_WALLET: "Editare Portofel",
-  SETTINGS: "Settings",
-  THEME: "Theme",
-  LANGUAGE: "Language",
-  POOL_SHARE: "Pool Share",
-  UNCLAIMED: "Unclaimed",
-  COPY_NOTICE: "Wallet address copied to clipboard",
-  WALLET_DESIGN: "Wallet Design",
+  SETTINGS: "Setări",
+  THEME: "Temă",
+  LANGUAGE: "Limba",
+  POOL_SHARE: "Partajarea piscinei",
+  UNCLAIMED: "Nerevendicat",
+  COPY_NOTICE: "Adresa portofelului a fost copiată în clipboard",
+  WALLET_DESIGN: "Design portofel",
 }
 
 export {LABELS};
